@@ -2,6 +2,10 @@
 
 This is a simple Weather App that I built using HTML, CSS and JavaScript. It uses the OpenWeather API to get the current weather details for a city entered by the user.
 
+## Project Demo
+
+![Weather App Demo](weatherApp.mp4)
+
 ## Features
 
 * Search weather by city name
