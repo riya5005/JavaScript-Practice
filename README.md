@@ -27,10 +27,10 @@ Weather-App/
 ├── index.html
 ├── style.css
 └── images/
-    ├── search.jfif
+    ├── search.png
     ├── cloud.png
     ├── clear.png
-    ├── rain.jfif
+    ├── rain.png
     ├── drizzle.png
     ├── mist.png
     ├── humidity.png
